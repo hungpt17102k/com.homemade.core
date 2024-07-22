@@ -1,0 +1,18 @@
+{
+  "name": "com.homemade.core",
+  "version": "1.0.0",
+  "displayName": "com.homemade.core",
+  "description": "Package must have to add other services",
+  "unity": "2021.1",
+  "author": {
+    "name": "HomeMadeST",
+    "email": "homemadegame102@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hungpt17102k/com.homemade.core"
+  },
+  "dependencies": {
+    "com.homemade.unitask": "2.5.4"
+  }
+}
